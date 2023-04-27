@@ -70,3 +70,4 @@ Long version:
 1) If you encounter bug please report it, and attach .log files and crash dumps and build/game version if possible to
    bugreport
 2) It's buggy and code is bad at the moment, sorry in advance :)
+3) 
